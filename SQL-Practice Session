@@ -1,3 +1,25 @@
 NEW SQL Practice session
 
-https://chatgpt.com/s/t_694589e18f9c81918dd9e5cc5a5f4137
+ChatGPT Result: https://chatgpt.com/s/t_694589e18f9c81918dd9e5cc5a5f4137
+The Prompt:
+
+SELECT
+    DISTINCT
+    TOP
+    AS
+FROM
+    JOIN
+    WHERE
+    GROUP BY
+    HAVING
+ORDER BY
+LIMIT
+
+I want to teach SQL (using PostegreSQL) in a more practical way/approach and I need your help. I want it to be a practical session where all the various SQL clauses mentioned above will be practiced and understood along with the corresponding SQL keywords and comparison operators that may apply to each clause like >, <, >=, <=, =, <>, OR, AND, BETWEEN, LIKE, NOT LIKE, WHERE IN, NULL or NOT NULL, etc..., without leaving out aggregate functions.
+
+I'll also like to bring to the students understanding the standard SQL execution order for better understanding of how SQL works.
+
+I will appreciate if you can generate a dataset along with practice queries that can be used for this SQL teaching session. A few extra practice exercise in each stage will go a long way to add to it.
+
+Finally, generate about 10 business problems related to the dataset that the students can practice with to understand how to convert a business problem to an SQL query.
+
